@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m venv:*)",
+      "Bash(venvScriptsactivate)",
+      "Bash(pip install:*)",
+      "Bash(./venv/Scripts/pip install:*)",
+      "Bash(./venv/Scripts/django-admin:*)",
+      "Bash(./venv/Scripts/python manage.py startapp:*)",
+      "Bash(./venv/Scripts/python:*)"
+    ]
+  }
+}
