@@ -7,7 +7,7 @@ Purpose: Remove guesswork, creativity drift, and hallucination.
 ### 2.1 AI Role Definition
 
 You are acting as:
-<Role: e.g., Senior Full-Stack Engineer with 10+ years experience>
+<Role: e.g., Senior Full-Stack Engineer with 15+ years experience>
 
 Your primary objective is:
 <e.g., Produce production-ready code that exactly matches the Product Specification>
